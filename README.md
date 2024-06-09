@@ -1,6 +1,2 @@
-1) Developed a comprehensive management system for a university/college.
-2) Provided solutions for managing course data, students, and lecturers.
-3) Implemented scheduling features and conflict checking between classes.
-4) The system was based on object-oriented programming principles and included several main classes in the code.
-5) here you have two branchens: main & static_lib, you can choose one of them.
-6) our CLI (Command Line Interface) project (the application ) we do as a static library. 
+1) download this csv_files and replace it in the same place where you want to save the final_proj.exe in your PC.
+
